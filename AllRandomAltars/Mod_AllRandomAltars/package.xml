@@ -1,10 +1,10 @@
 <Meta>
-	<title>Better Tax Evasion</title>
-	<id>com.edern.bettertaxevasion</id>
+	<title>All Random Altars</title>
+	<id>com.edern.allrandomaltars</id>
 	<author>Edern</author>
 	<loadPriority>100</loadPriority>
 	<description>
-    Makes the "Tax Evasion" policy more effective
+    Allow altars of all deities to spawn randomly
   </description>
 	<version>0.23.20</version>
 </Meta>
